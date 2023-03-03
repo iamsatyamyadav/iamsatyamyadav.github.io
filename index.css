@@ -368,7 +368,7 @@ nav ul li {
   font-size: 14px;
 }
 
-#links:hover {
+#links:hover {  
   background-color: var(--hover);
 }
 
